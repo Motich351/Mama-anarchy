@@ -3,3 +3,4 @@
 print("Hi")
 # changes by Oracle, nihao
 # cheking updates, please stand by (Oracle)
+# shutting down, bah bye :)
