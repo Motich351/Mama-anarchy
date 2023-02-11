@@ -2,3 +2,4 @@
 # каждый делает себе отдельную ветку и в ней шаманит
 print("Hi")
 # changes by Oracle, nihao
+# cheking updates, please stand by (Oracle)
